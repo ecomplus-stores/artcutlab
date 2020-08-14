@@ -29,8 +29,25 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-frente-d.png"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/animes.jpg",
+          "link": "/anime/"
+        },
+        {
+          "img": "/img/uploads/porta-copos-banner-1.jpg",
+          "link": "/porta-copos/"
+        },
+        {
+          "img": "/img/uploads/banner-square-mapas1.jpg",
+          "link": "/mapas/"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
