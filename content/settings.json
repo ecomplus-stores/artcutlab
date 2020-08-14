@@ -1,22 +1,23 @@
 {
-  "store_id": 1146,
-  "name": "artcutlab",
   "domain": "artcutlab.netlify.app",
-  "short_name": "artcutlab",
-  "description": "A ART CUT LAB está no mercado desde Janeiro de 2017 e dedica-se inteiramente à satisfação de seus clientes. Felizmente, temos recebido muitos retornos positivos que nos estimulam a buscar oferecer sempre o melhor.",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#592600",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "sketchy",
+    "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "artcutlab",
+  "short_name": "artcutlab",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#262626",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 1146,
+  "description": "A ART CUT LAB está no mercado desde Janeiro de 2017 e dedica-se inteiramente à satisfação de seus clientes. Felizmente, temos recebido muitos retornos positivos que nos estimulam a buscar oferecer sempre o melhor.",
+  "large_icon": "/img/uploads/logo.png"
 }
