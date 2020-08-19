@@ -134,6 +134,42 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/mapa-da-terra-media</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/wizard-wisdom</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/escudo-house-stark</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/escudo-house-targaryen</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/friends-dont-lie</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/arvore-da-vida</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/quadros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
