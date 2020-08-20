@@ -536,6 +536,42 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/ima-yellow-umbrela</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/ima-blue-french-horn</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/porta-chaves-batalha-do-dragao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/quadro-sherlock-holmes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/quadro-scarface</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/quadro-clockwork-machine</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/quadros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
