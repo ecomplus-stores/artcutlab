@@ -902,6 +902,30 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/kit-leitura-senhor-dos-aneis-aviso-de-porta-e-marcador-de-pagina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/marcador-de-pagina-estrela-vespertina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/aviso-de-porta-nao-perturbe-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/placa-de-quarto-escolha-sua-casa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/quadros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1058,13 +1082,13 @@
     </url>
   
     <url>
-      <loc>https://artcutlab.netlify.app/pages/entrega</loc>
+      <loc>https://artcutlab.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://artcutlab.netlify.app/pages/faq</loc>
+      <loc>https://artcutlab.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
