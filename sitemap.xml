@@ -422,6 +422,48 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/capacho-star-wars-welcome-you-are</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/carteira-slim-arvore-branca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/porta-copos-esferas-do-dragao-7-pcs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/porta-copos-gatinhos-6-pecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/mapa-da-provincia-de-skyrim-azul</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/porta-copos-one-piece-6-pecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/porta-copos-cerebro-6-pecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/quadros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -584,13 +626,13 @@
     </url>
   
     <url>
-      <loc>https://artcutlab.netlify.app/pages/faq</loc>
+      <loc>https://artcutlab.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://artcutlab.netlify.app/pages/pagamentos</loc>
+      <loc>https://artcutlab.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
