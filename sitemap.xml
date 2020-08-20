@@ -944,6 +944,36 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/marcador-de-pagina-casas-dos-magos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/aviso-de-porta-wizzard-muggler</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/kit-leitura-harry-potter-aviso-de-porta-e-marcador-de-pagina-branco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/kit-leitura-senhor-dos-aneis-aviso-de-porta-e-marcador-de-pagina-branco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://artcutlab.netlify.app/marcador-de-pagina-necromante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/quadros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1154,6 +1184,12 @@
     </url>
   
     <url>
+      <loc>https://artcutlab.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://artcutlab.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -1161,12 +1197,6 @@
   
     <url>
       <loc>https://artcutlab.netlify.app/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://artcutlab.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
